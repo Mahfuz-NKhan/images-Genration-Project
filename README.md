@@ -1,0 +1,5 @@
+Image Generation (Spring Boot, Java, HTML, CSS, ReactJS)
+
+The Image Generation AI project is an innovative web application that allows users to generate high-quality AI-based images from text prompts. The system is built using a modern and scalable technology stack, with Spring Boot (Java) powering the backend and ReactJS handling the frontend user interface. The backend integrates AI/ML image-generation APIs to process user inputs and return realistic or artistic images based on the prompt. Spring Boot ensures fast processing, secure endpoints, and smooth communication with external AI models.
+
+On the frontend, ReactJS provides a dynamic and responsive experience, enhanced with HTML and CSS for clean and attractive UI design. Users can enter prompts, choose styles, and instantly view generated images. The application supports features like image download, history tracking, and prompt customization. Overall, the project demonstrates strong full-stack development skills, API integration, and modern UI/UX practices while showcasing the practical implementation of AI-powered image generation technology.
